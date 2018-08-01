@@ -1,2 +1,2 @@
 # Fundamental_logics
-Listed all the fundamental logical codes of JavaScript programming.
+Listed all the fundamental logics & codes of JavaScript programming.
