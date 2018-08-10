@@ -1,4 +1,5 @@
-
+// 1. Given input String is whether palindrome or not?
+// dynamicall allocating value
 var strng = "";
 function checkPalindrome(strng){
 
