@@ -1,4 +1,4 @@
-// Problem 10: Find a Character is Vowel or Consonent
+// Problem 10: Find a Character is Vowel or Consonant
 
 var chr="";
 function vowelOrConso(chr)
@@ -17,7 +17,7 @@ function vowelOrConso(chr)
         }
         // if give a input is a number use it else statement
         //else{
-        //     console.log("Given Input is not a vowel or consonent " +chr);
+        //     console.log("Given Input is not a vowel or consonant " +chr);
         // }
      }
 }
